@@ -1,0 +1,22 @@
+body {
+    background-color: black;
+}
+
+img {
+    
+    border: 5px solid white;
+    margin-left:30%;
+    margin-top: 5%;
+}
+
+.heading1 {
+    font-size: 50px;
+    color: white;
+    margin-left: 32%;
+}
+
+.paragraph {
+    font-size: 20px;
+    color: white;
+    margin-left: 700px;
+}
